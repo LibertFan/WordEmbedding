@@ -5,7 +5,7 @@ and their Compositionality](http://papers.nips.cc/paper/5021-distributed-represe
 with pytorch.
 * In order to train word2vec model, IMDB dataset published by stanford [
 Learning word vectors for sentiment analysis](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf) is utilized. 
-* The final consequence is saved with the format of *txt*.
+* The final consequence is saved with the format of `txt`.
 
 ## Requirement
 * python 3.6
